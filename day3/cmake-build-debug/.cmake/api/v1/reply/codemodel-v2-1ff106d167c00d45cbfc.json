@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "day3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Arrays::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arrays-Debug-bc819df9300b161d824a.json",
+					"name" : "Arrays",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pointers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pointers-Debug-004cc8ff897482000735.json",
+					"name" : "Pointers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "String::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-String-Debug-e4cf9edf6d92c2ebeb1f.json",
+					"name" : "String",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "structure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-structure-Debug-a87c43b296835c34fa23.json",
+					"name" : "structure",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/maxam/OneDrive/Desktop/Projects Building in C++/day3/cmake-build-debug",
+		"source" : "C:/Users/maxam/OneDrive/Desktop/Projects Building in C++/day3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
